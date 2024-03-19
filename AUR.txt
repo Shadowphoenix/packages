@@ -1,0 +1,7 @@
+opera
+octopi
+betterdiscord-installer-bin
+reflector-simple
+ttf-google-fonts-git
+yay
+youtube-music-bin
