@@ -1,7 +1,8 @@
-opera
-octopi
 betterdiscord-installer-bin
+octopi
+opera
+optimus-manager
+optimus-manager-qt
 reflector-simple
-ttf-google-fonts-git
-yay
+yay-bin
 youtube-music-bin
